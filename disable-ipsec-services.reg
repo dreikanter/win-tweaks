@@ -1,0 +1,3 @@
+;Disable IPSEC Services
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PolicyAgent]
+"Start"=dword:00000004

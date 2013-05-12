@@ -1,0 +1,2 @@
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Messenger]
+"Start"=dword:00000004

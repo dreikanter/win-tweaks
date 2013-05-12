@@ -1,0 +1,5 @@
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\cisvc]
+"Start"=dword:00000004
+
+;Benefit: Disables Indexing Service which when enabled can speed up local searching, but slow down
+;other aspects 
